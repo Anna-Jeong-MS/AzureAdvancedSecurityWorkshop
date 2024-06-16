@@ -12,6 +12,6 @@
 
 [Network Connectivity](https://github.com/Anna-Jeong-MS/AzureAdvancedSecurityWorkshop/tree/main/4_Network%20Connectivity)
 
-[Configure Logs]()
+[Configure Logs](https://github.com/Anna-Jeong-MS/AzureAdvancedSecurityWorkshop/tree/main/5_Configure%20Logs)
 
-[Scenario Test]()
+[Scenario Test](https://github.com/Anna-Jeong-MS/AzureAdvancedSecurityWorkshop/tree/main/6_Scenario%20Test)
